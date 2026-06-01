@@ -1,0 +1,155 @@
+﻿genome,filtering,assembler,input_type,polishing,reference_filename,assembly_stats,chrom_length,total_plasmids,outbreak_plasmid_length,cumulative_plasmid_length
+reference_n_o_1_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,4697895,4,69411,"135545, 88687, 69411, 31982"
+reference_n_o_2_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5241343,3,89192,"90635, 89192, 78827"
+reference_n_o_3_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5293530,6,67853,"176210, 112457, 87818, 67853, 11432, 3808"
+reference_n_o_4_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5369321,4,63589,"216821, 205800, 109477, 63589"
+reference_n_o_5_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5450545,3,63675,"214604, 78423, 63675"
+reference_n_o_6_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,4739087,2,69981,"112496, 69981"
+reference_n_o_7_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5487676,4,67271,"90672, 67271, 6790, 4066"
+reference_n_o_8_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5201289,3,50833,"135519, 94840, 50833"
+reference_o_1_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,4662767,2,71966,"71966, 45048"
+reference_o_2_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5356793,2,71966,"138260, 71966"
+reference_o_3_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5312462,2,57927,"90051, 57927"
+reference_o_4_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5144470,1,73315,73315
+reference_o_5_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,4789836,2,69124,"69124, 19659"
+reference_o_6_q12,?,unicycler-hy,short_and_long,"medaka, polypolish",,,5000897,1,65878,65878
+n_o_1_q12,raw_reads,autocycler-full,long,no,reference_n_o_1_q12,,4697887,4,69411,"135545, 88687, 69411, 31982"
+n_o_2_q12,raw_reads,autocycler-full,long,no,reference_n_o_2_q12,,5241319,3,89192,"90633, 89192, 78827"
+n_o_3_q12,raw_reads,autocycler-full,long,no,reference_n_o_3_q12,,5293365,incomplete,67850,too many contigs
+n_o_4_q12,raw_reads,autocycler-full,long,no,reference_n_o_4_q12,,5369139,5,63587,"216800, 205795, 109475, 63587, 3670"
+n_o_5_q12,raw_reads,autocycler-full,long,no,reference_n_o_5_q12,,5450530,3,63675,"214604, 78422, 63675"
+n_o_6_q12,raw_reads,autocycler-full,long,no,reference_n_o_6_q12,,4739482,4,69981,"112496, 69981, 9923, 2494"
+n_o_7_q12,raw_reads,autocycler-full,long,no,reference_n_o_7_q12,,5487658,3,67271,"90699, 67271, 4066"
+n_o_8_q12,raw_reads,autocycler-full,long,no,reference_n_o_8_q12,,5214720,3,50828,too many contigs
+o_1_q12,raw_reads,autocycler-full,long,no,reference_o_1_q12,,4662764,2,71966,"71966, 45048"
+o_2_q12,raw_reads,autocycler-full,long,no,reference_o_2_q12,,5356736,2,71966,"138259, 71966"
+o_3_q12,raw_reads,autocycler-full,long,no,reference_o_3_q12,,5314626,3,57927,"203576, 90051, 57927"
+o_4_q12,raw_reads,autocycler-full,long,no,reference_o_4_q12,,5101102,1,73315,73315
+o_5_q12,raw_reads,autocycler-full,long,no,reference_o_5_q12,,4789832,2,69124,"69124, 25549"
+o_6_q12,raw_reads,autocycler-full,long,no,reference_o_6_q12,,5001475,1,65878,65878
+n_o_1_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_1_q12,,4697887,4,69411,"135545, 88687, 69411, 31982"
+n_o_2_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_2_q12,,5241329,3,89192,"90633, 89192, 78827"
+n_o_3_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_3_q12,,5293410,incomplete,67853,too many contigs
+n_o_4_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_4_q12,,5369203,5,63588,"216805, 205796, 109476, 63588, 3670"
+n_o_5_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_5_q12,,5450537,4,63675,"214604, 78422, 63675, 3541"
+n_o_6_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_6_q12,,4739487,4,69981,"112496, 69981, 9923"
+n_o_7_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_7_q12,,5487663,4,67271,"90773, 67271, 6790, 4066"
+n_o_8_q12,raw_reads,autocycler-wo-canu,long,no,reference_n_o_8_q12,,5214761,3,50830,"135507, 94835, 50829"
+o_1_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_1_q12,,4662768,2,71966,"71966, 45048"
+o_2_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_2_q12,,5356835,2,71968,"138261, 71968"
+o_3_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_3_q12,,5314822,2,57927,"90051, 57927"
+o_4_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_4_q12,,5101107,1,73315,73315
+o_5_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_5_q12,,4789849,2,69124,"69124, 25549"
+o_6_q12,raw_reads,autocycler-wo-canu,long,no,reference_o_6_q12,,5001476,1,65878,65878
+n_o_1_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_1_q12,,4697886,4,69411,"135545, 88687, 69411, 31982"
+n_o_2_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_2_q12,,5241324,3,89192,"90633, 89192, 78827"
+n_o_3_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_3_q12,,5293390,7,67849,too many contigs
+n_o_4_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_4_q12,,5369158,5,63587,"216801, 205795, 109475, 63587, 3670"
+n_o_5_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_5_q12,,5450532,6,63675,"214603, 78422, 63675, 5359, 4052, 3541"
+n_o_6_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_6_q12,,4739484,4,69981,"112496, 69981, 9923, 2494"
+n_o_7_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_7_q12,,5487661,4,67271,"90774, 67271, 6790, 4066"
+n_o_8_q12,raw_reads,autocycler-wo-necat,long,no,reference_n_o_8_q12,,5214725,3,50828,too many contigs
+o_1_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_1_q12,,4662767,2,71966,"71966, 45048"
+o_2_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_2_q12,,5356790,2,71966,"138262, 71966"
+o_3_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_3_q12,,5313832,3,57927,too many contigs
+o_4_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_4_q12,,5101105,1,73315,73315
+o_5_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_5_q12,,4789835,2,69124,"69124, 25549"
+o_6_q12,raw_reads,autocycler-wo-necat,long,no,reference_o_6_q12,,5001476,1,65878,65878
+n_o_1_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_1_q12,,4697886,4,69411,"135545, 88687, 69411, 31982"
+n_o_2_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_2_q12,,5241328,3,89192,"90633, 89192, 78827"
+n_o_3_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_3_q12,,5293413,incomplete,67851,too many contigs
+n_o_4_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_4_q12,,5369190,5,63588,"216802, 205796, 109475, 63588, 3670"
+n_o_5_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_5_q12,,5450535,6,63675,"214604, 78422, 63675, 7655, 4052, 3541"
+n_o_6_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_6_q12,,4739489,4,69981,"112496, 69981, 9923, 2494"
+n_o_7_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_7_q12,,5487661,3,67271,"90774, 67271, 4066"
+n_o_8_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_n_o_8_q12,,5214758,incomplete,50829,too many contigs
+o_1_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_1_q12,,4662767,2,71966,"71966, 45048"
+o_2_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_2_q12,,5356845,2,71969,"138263, 71969"
+o_3_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_3_q12,,5313839,2,57927,"90051, 57927"
+o_4_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_4_q12,,5101108,1,73315,73315
+o_5_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_5_q12,,4789846,2,69124,"69124, 25549"
+o_6_q12,raw_reads,autocycler-wo-canu&necat,long,no,reference_o_6_q12,,5001476,1,65878,65878
+n_o_1_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_1_q12,,4697887,4,69411,"135545, 88687, 69411, 31982"
+n_o_2_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_2_q12,,5241329,3,71962,"90633, 89192, 78827"
+n_o_3_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_3_q12,,5293402,incomplete,67851,too many contigs
+n_o_4_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_4_q12,,5369173,5,63586,"216800, 205794, 109475, 63586, 3670"
+n_o_5_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_5_q12,,5450535,6,63675,"214604, 78422, 63675, 5359, 4052, 3541"
+n_o_6_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_6_q12,,5001475,4,65878,"112496, 69981, 9923, 2494"
+n_o_7_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_7_q12,,5487662,4,67271,"90702, 67271, 6790, 4066"
+n_o_8_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_n_o_8_q12,,incomplete,incomplete,50828,too many contigs
+o_1_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_1_q12,,4662766,2,71966,"71966, 45048"
+o_2_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_2_q12,,5356843,2,71962,"138262, 71962"
+o_3_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_3_q12,,incomplete,incomplete,57927,too many contigs
+o_4_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_4_q12,,5101107,1,73315,73315
+o_5_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_5_q12,,4789844,3,69124,"69124, 25549, 1239"
+o_6_q12,raw_reads,autocycler-wo-canu&metamdbg,long,no,reference_o_6_q12,,5001475,1,65878,65878
+n_o_1_q12,raw_reads,unicycler-lr,long,no,reference_n_o_1_q12,,4697710,4,69404,"135545, 88683, 69404, 31977"
+n_o_2_q12,raw_reads,unicycler-lr,long,no,reference_n_o_2_q12,,5241178,3,89191,"90630, 89191, 78824"
+n_o_3_q12,raw_reads,unicycler-lr,long,no,reference_n_o_3_q12,,5293382,6,67847,"176207, 112454, 87817, 67847, 11429, 3808"
+n_o_4_q12,raw_reads,unicycler-lr,long,no,reference_n_o_4_q12,,5368929,4,63580,"216797, 205776, 109468, 63580"
+n_o_5_q12,raw_reads,unicycler-lr,long,no,reference_n_o_5_q12,,5450339,3,63672,"214601, 78421, 63672"
+n_o_6_q12,raw_reads,unicycler-lr,long,no,reference_n_o_6_q12,,4739022,2,69978,"112493, 69978"
+n_o_7_q12,raw_reads,unicycler-lr,long,no,reference_n_o_7_q12,,5487658,4,67271,"90712, 67271, 6790, 4066"
+n_o_8_q12,raw_reads,unicycler-lr,long,no,reference_n_o_8_q12,,5200795,3,50826,"135501, 94855, 50826"
+o_1_q12,raw_reads,unicycler-lr,long,no,reference_o_1_q12,,4662682,2,71962,"71962, 45047"
+o_2_q12,raw_reads,unicycler-lr,long,no,reference_o_2_q12,,5356722,2,71965,"138250, 71965"
+o_3_q12,raw_reads,unicycler-lr,long,no,reference_o_3_q12,,5307789,2,57927,"90044, 57927"
+o_4_q12,raw_reads,unicycler-lr,long,no,reference_o_4_q12,,5144159,1,73315,73315
+o_5_q12,raw_reads,unicycler-lr,long,no,reference_o_5_q12,,4789714,2,69105,"69105, 19656"
+o_6_q12,raw_reads,unicycler-lr,long,no,reference_o_6_q12,,5000060,1,65874,65874
+n_o_1_q12,raw_reads,canu,long,no,reference_n_o_1_q12,,4727064,incomplete,"multiple plasmid matches, including duplicate seq length plasmid",too many contigs
+n_o_2_q12,raw_reads,canu,long,no,reference_n_o_2_q12,,5263385,incomplete,"multiple plasmid matches, including duplicate seq length plasmid",too many contigs
+n_o_3_q12,raw_reads,canu,long,no,reference_n_o_3_q12,,4613346,incomplete,"173,208",too many contigs
+n_o_4_q12,raw_reads,canu,long,no,reference_n_o_4_q12,,incomplete,incomplete,112497,too many contigs
+n_o_5_q12,raw_reads,canu,long,no,reference_n_o_5_q12,,5516971,incomplete,"multiple plasmid matches, including duplicate seq length plasmid",too many contigs
+n_o_6_q12,raw_reads,canu,long,no,reference_n_o_6_q12,,4756693,8,"multiple plasmid matches, including duplicate seq length plasmid","173021, 161994, 75515, 71307, 69872, 46289, 19741, 4959"
+n_o_7_q12,raw_reads,canu,long,no,reference_n_o_7_q12,,5550256,incomplete,134057,too many contigs
+n_o_8_q12,raw_reads,canu,long,no,reference_n_o_8_q12,,5236288,3,126394,"170982, 140607, 126394"
+o_1_q12,raw_reads,canu,long,no,reference_o_1_q12,,4689587,4,104486,"104486, 83384, 45302, 45041"
+o_2_q12,raw_reads,canu,long,no,reference_o_2_q12,,5396757,3,205645,"205645, 204462, 64611"
+o_3_q12,raw_reads,canu,long,no,reference_o_3_q12,,5104533,incomplete,multiple plasmid matches with different lengths,too many contigs
+o_4_q12,raw_reads,canu,long,no,reference_o_4_q12,,5142616,1,146160,146160
+o_5_q12,raw_reads,canu,long,no,reference_o_5_q12,,4827844,incomplete,multiple plasmid matches with different lengths,too many contigs
+o_6_q12,raw_reads,canu,long,no,reference_o_6_q12,,5023599,1,115514,115514
+n_o_1_q12,raw_reads,dragonflye,long,no,reference_n_o_1_q12,,4697932,5,69401,"135528, 134888, 80198, 69401, 63961"
+n_o_2_q12,raw_reads,dragonflye,long,no,reference_n_o_2_q12,,5241311,3,89192,"90619, 89192, 78852"
+n_o_3_q12,raw_reads,dragonflye,long,no,reference_n_o_3_q12,,5293400,7,67841,"176198, 112426, 87800, 67841, 51409, 11019, 7291"
+n_o_4_q12,raw_reads,dragonflye,long,no,reference_n_o_4_q12,,5369104,7,63582,"216799, 205687, 107648, 63582, 7256, 6620, 3661"
+n_o_5_q12,raw_reads,dragonflye,long,no,reference_n_o_5_q12,,5450496,4,127254,"218543, 127254, 74353, 3945"
+n_o_6_q12,raw_reads,dragonflye,long,no,reference_n_o_6_q12,,4739432,4,69970,"112489, 69970, 19222, 2468"
+n_o_7_q12,raw_reads,dragonflye,long,no,reference_n_o_7_q12,,5487657,2,67262,"90729, 67262"
+n_o_8_q12,raw_reads,dragonflye,long,no,reference_n_o_8_q12,,5215573,4,50824,"135535, 100343, 50824, 1837"
+o_1_q12,raw_reads,dragonflye,long,no,reference_o_1_q12,,4662711,2,143834,"143834, 45037"
+o_2_q12,raw_reads,dragonflye,long,no,reference_o_2_q12,,5356599,3,143605,"143605, 138245, 5456"
+o_3_q12,raw_reads,dragonflye,long,no,reference_o_3_q12,,5289972,incomplete,57917,too many contigs
+o_4_q12,raw_reads,dragonflye,long,no,reference_o_4_q12,,5101849,1,73299,73299
+o_5_q12,raw_reads,dragonflye,long,no,reference_o_5_q12,,4786984,2,69119,"69119, 50681"
+o_6_q12,raw_reads,dragonflye,long,no,reference_o_6_q12,,5001157,1,65862,65862
+n_o_1_q12,raw_reads,plassembler,long,no,reference_n_o_1_q12,,4697888,5,69411,"88687, 69411, 55782, 31982, 12507"
+n_o_2_q12,raw_reads,plassembler,long,no,reference_n_o_2_q12,,5241329,3,89192,"90631, 89192, 78826"
+n_o_3_q12,raw_reads,plassembler,long,no,reference_n_o_3_q12,,5293344,7,67849,"112452, 109329, 87813, 67849, 52113, 5716, 3808"
+n_o_4_q12,raw_reads,plassembler,long,no,reference_n_o_4_q12,,5369156,5,63580,"216776, 205783, 109472, 63580, 3670"
+n_o_5_q12,raw_reads,plassembler,long,no,reference_n_o_5_q12,,5450524,6,63675,"214601, 78422, 63675, 5359, 4052, 3540"
+n_o_6_q12,raw_reads,plassembler,long,no,reference_n_o_6_q12,,4739479,3,incomplete,"112496, 68736 (fragmented), 9923, 2494"
+n_o_7_q12,raw_reads,plassembler,long,no,reference_n_o_7_q12,,5487642,4,67271,"90699, 67271, 6790, 4066"
+n_o_8_q12,raw_reads,plassembler,long,no,reference_n_o_8_q12,,5213213,3,50825,"135499, 94821, 50825"
+o_1_q12,raw_reads,plassembler,long,no,reference_o_1_q12,,4662755,2,71966,"71966, 45048"
+o_2_q12,raw_reads,plassembler,long,no,reference_o_2_q12,,5356853,2,71965,"138257, 71965"
+o_3_q12,raw_reads,plassembler,long,no,reference_o_3_q12,,5290477,2,57927,"90051, 57927"
+o_4_q12,raw_reads,plassembler,long,no,reference_o_4_q12,,5101103,1,73315,73315
+o_5_q12,raw_reads,plassembler,long,no,reference_o_5_q12,,4789913,3,69124,"69124, 25549, 1239"
+o_6_q12,raw_reads,plassembler,long,no,reference_o_6_q12,,5001474,1,65878,65878
+n_o_1_q12,raw_reads,hybracter,long,no,reference_n_o_1_q12,,4697886,9,69411,"88687, 69411, 31982, 30506, 15609, 9021, 8936, 6583, 679"
+n_o_2_q12,raw_reads,hybracter,long,no,reference_n_o_2_q12,,5241322,3,89192,"90633, 89192, 73882"
+n_o_3_q12,raw_reads,hybracter,long,no,reference_n_o_3_q12,,5293342,6,67847,"176192, 112450, 87815, 67847, 5716, 3808"
+n_o_4_q12,raw_reads,hybracter,long,no,reference_n_o_4_q12,,5369155,5,63587,"216781, 205788, 109472, 63587, 3670"
+n_o_5_q12,raw_reads,hybracter,long,no,reference_n_o_5_q12,,5450518,6,63675,"214603, 78422, 63675, 5359, 4052, 3541"
+n_o_6_q12,raw_reads,hybracter,long,no,reference_n_o_6_q12,,4739482,4,69980,"112496, 69980, 9923, 2494"
+n_o_7_q12,raw_reads,hybracter,long,no,reference_n_o_7_q12,,5487655,3,67271,"90702, 67271, 4066"
+n_o_8_q12,raw_reads,hybracter,long,no,reference_n_o_8_q12,,5214651,3,50826,"135496, 94826, 50826"
+o_1_q12,raw_reads,hybracter,long,no,reference_o_1_q12,,4662761,2,71966,"71966, 45048"
+o_2_q12,raw_reads,hybracter,long,no,reference_o_2_q12,,5356698,2,71961,"138257, 71961"
+o_3_q12,raw_reads,hybracter,long,no,reference_o_3_q12,,5314697,2,57927,"90051, 57927"
+o_4_q12,raw_reads,hybracter,long,no,reference_o_4_q12,,5101105,1,73315,73315
+o_5_q12,raw_reads,hybracter,long,no,reference_o_5_q12,,4789826,3,69124,"69124, 25549, 1240"
+o_6_q12,raw_reads,hybracter,long,no,reference_o_6_q12,,5001476,1,65878,65878
