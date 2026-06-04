@@ -16,6 +16,14 @@ while read line; do
 done < ids.txt
 ```
 
+Unicycler-lr:
+```bash
+for f in path/.fastq.gz; do
+    base=$(basename "$f" .fastq.gz)
+    unicycler -l "$f" -o ./"$base" -t 16
+done
+```
+
 Canu:
 
 ```bash
