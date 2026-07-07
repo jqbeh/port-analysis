@@ -4,6 +4,6 @@ Includes genome assembly stats from multiple long-read assemblers: autocycler, u
 
 Compared:
 - chromosome size
-- total plasmid contigs
-- cumulative plasmid length
+- total number of plasmids
+- total number of circular plasmids
 - length of outbreak/nonoutbreak plasmid
